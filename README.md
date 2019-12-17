@@ -1,5 +1,6 @@
 # TripWith 
-#TripWith
+
+TripWith
  TripWith is a web service that helps you find a companion when you travel abroad.
  
 How it works & Usage
