@@ -24,7 +24,7 @@ You can write reviews about travel destinations and get your own mates.<br>
 <img src="https://user-images.githubusercontent.com/55133538/70997430-6d9a9380-2118-11ea-884e-695b99554adb.png"></img>
 <img src="https://user-images.githubusercontent.com/55133538/70997431-6e332a00-2118-11ea-8ec9-0199702e4f0c.png"></img>
 <img src="https://user-images.githubusercontent.com/55133538/70997432-6e332a00-2118-11ea-873f-cfac7b25f9d7.png"></img>
-<img src="https://user-images.githubusercontent.com/55133538/70997212-d5041380-2117-11ea-98fb-ba4c7c773e40.PNG"</img>
+<img src="https://user-images.githubusercontent.com/55133538/70997212-d5041380-2117-11ea-98fb-ba4c7c773e40.PNG"></img>
 <img src="https://user-images.githubusercontent.com/55133538/70997246-ef3df180-2117-11ea-8451-a87905a696a3.PNG"></img>
 <img src="https://user-images.githubusercontent.com/55133538/70997317-201e2680-2118-11ea-96ca-4cb1c4d915e2.PNG"></img>
 
