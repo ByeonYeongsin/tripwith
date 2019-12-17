@@ -1,4 +1,5 @@
-# tripwith
+# TripWith 
+이화여자대학교 오픈SW플랫폼 15조 여행 같이가조 프로젝트
 
 TripWith
  TripWith is a web service that helps you find a companion when you travel abroad.
