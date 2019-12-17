@@ -1,6 +1,4 @@
 # TripWith 
-
-<h1>TripWith</h1>
 <br>
  TripWith is a web service that helps you find a companion when you travel abroad.
  <br><br>
